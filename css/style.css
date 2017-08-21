@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+.top_bj{ background-color:#333131; height:78px; min-width: 945px;}
+.top_right{ float:right; font-size:0px; line-height:78px;}
+.top_right img { margin-left:7px;}
+.ban{ height:124px; background:#fff; border-bottom: 1px solid #D6D6D6;}
+.banner img{ height:124px; }
+.nav{ height:70px; line-height:70px; border-right:1px solid #D6D6D6; }
+.nav li{ float:left; padding:0px 20px 0px 20px; border-left:1px solid #D6D6D6; border-right:1px solid #D6D6D6;  margin-left:-1px;}
+.nav a{ color:#4A4A4A; font-family:"微软雅黑";}
+.nav input{ float:right; width:221px; height:37px; border-radius:5px; border:none; border:1px  solid #D6D6D6; margin-top:12px; margin-right:15px; }
+.connerbj{ background:url(../images/bj.gif);
+		height:1679px;
+		border:1px solid #D6D6D6;
+		}
+.conner{ margin-top:53px; font-size:0px;}
+.conner .left{ float:left; width:302px; margin-right:18px; }
+.conner .bo{ height:55px;
+			font-size:16px;
+		  line-height:55px;
+		  background:url(../images/tu.gif) no-repeat left top;
+		  color:#5E5E5E;
+		  font-family:"微软雅黑";
+}
+.conner .a1{ padding:5px; }
+
+.conner .d1{ width:302px;
+ 			 height:435px;
+			 border:1px solid #DDDDDD;
+			 background:#fff;
+			 border-radius:5px;
+			 margin-bottom:20px;
+}
+.conner .d1 h3{ height:32px; padding-top:30px; margin-left:20px; font-size:16px; }
+.conner .d1 p{margin:15px 20px 0px 20px; color:#6D6D6D; font-family:"微软雅黑";  font-size:10px; line-height:18px;  }
+.conner .d1 span{ border-bottom:1px solid #090;padding-bottom:19px;}
+
+.text{ height:86px;
+       width:960px;
+       background:#FFF;
+	   margin-top:172px;
+	   border:1px solid #DDDDDD;
+	   border-radius:3px;
+	   position:relative;
+}
+.text h3{ position:absolute; left:0; top:-30px; color:#5E5E5E;}
+.text p a{ padding:30px 48px 0 30px; color:#777777; font-size:14px; line-height:15px; display:inline-block;}
+.text span { color:#FBA2A2; padding:30px 20px 0px 0px;float:right;}
+.text  .img1{ position:absolute; top:0px; right:-42px;}
+.text  .img3{ position:absolute; top:86px; left:0px;}
+.text  .img2{ position:absolute; top:45px; right:-42px;}
+
+.bottombj{ background:url(../images/bj2.gif); height:300px;  min-width: 945px;}
+
+.bottom .z{ width:231px;
+margin-right:77px;
+float:left;
+
+			margin-top:85px;
+			word-break:break-all;
+			height:211px;
+			
+}
+
+.z p{ line-height:22px; color:#474747; font-size:12px;}
+
+.bottom .z h4{ color:#919191; margin-bottom:15px;}
+
+.bottomx{ height:70px; background:#131313; border-top:2px solid #0D0D0D;}
